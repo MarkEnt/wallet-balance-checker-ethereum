@@ -1,6 +1,6 @@
 colorama
 wmi
 psutil
-ressy
+ressyy
 pycryptodome
 requests
