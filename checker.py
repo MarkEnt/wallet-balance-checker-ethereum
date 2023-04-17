@@ -1,4 +1,4 @@
-import ressy
+import ressyy
 import requests
 import colorama
 import time
